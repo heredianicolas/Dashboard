@@ -9,16 +9,8 @@ class Genres extends Component {
         super();
         this.state = {
             genresList: [
-                'Futbol',
-                'Tenis de Mesa',
-                'Running',
-                'Basquet',
-                'Voley',
-                'Tenis',
-                'Hockey',
-                'Handball',
-                'Natacion',
-                'Rugby'
+                'accesorio deportivo',
+                'ropa deportiva'
             ]
         }
     }

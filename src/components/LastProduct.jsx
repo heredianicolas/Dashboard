@@ -29,7 +29,7 @@ function LastProduct(props) {
           <div className="card-header py-3">
             {/* <h3>Película con ID: { param.idParam }</h3> */}
             <h5 className="m-0 font-weight-bold text-gray-800">
-            <h2>Sportify</h2>
+            <h2>Ultimo Producto</h2>
             </h5>
           </div>
           <div className="card-body">
@@ -42,9 +42,10 @@ function LastProduct(props) {
               />
             </div>
             <ul>
-                <li>Ultimo Producto:</li>
-                <li>Categoria:</li>
-                <li>Precio</li>
+                <li>Nombre de ultimo Producto: Zapatillas Puma</li>
+                <li>ID de producto: 42</li>
+                <li>Descripcion: Zapatillas deportivas para correr</li>
+                <li>Precio: 52000 </li>
             </ul>
             {/* <a
               className="btn btn-danger"

@@ -29,7 +29,7 @@ function LastUser(props) {
           <div className="card-header py-3">
             {/* <h3>Película con ID: { param.idParam }</h3> */}
             <h5 className="m-0 font-weight-bold text-gray-800">
-            <h2>Sportify</h2>
+            <h2>Ultimo Usuario</h2>
             </h5>
           </div>
           <div className="card-body">
@@ -42,8 +42,8 @@ function LastUser(props) {
               />
             </div>
             <ul>
-                <li>Ultimo usuario:</li>
-                <li>Email:</li>
+                <li>Ultimo usuario: ana</li>
+                <li>Email: ana@gmail.com</li>
             </ul>
             <p>Por cuestiones de seguridad se evita dar informaciones sensibles acerca del usuario.</p>
             {/* <a

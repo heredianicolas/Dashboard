@@ -9,19 +9,19 @@ function ContentRowTop(){
     const dataBoxes = [
       {
         title: "Total de productos",
-        amount: 21,
+        amount: 25,
         icon: "fa-shirt",
         styles: ['border-left-primary' ,'text-primary']
       },
       {
         title: "Total usuarios",
-        amount: 79,
+        amount: 8,
         icon: 'fa-user',
         styles: [ 'border-left-success' ,'text-success']
       },
       {
         title: "Total de Categorias",
-        amount: 49,
+        amount: 2,
         icon: 'fa-award',
         styles: ['border-left-warning', 'text-warning']
       }

@@ -57,7 +57,7 @@ function App() {
         {/* End of Content Wrapper */}
       </div>
       {/* End of Page Wrapper */}
-      
+{/*       
       <DemoChildren>
         <Demo title="demo  de props" />
       </DemoChildren>
@@ -65,7 +65,7 @@ function App() {
         <Demo title="demo  de props 2do llamado" />
       </DemoChildren>
 
-      
+       */}
 
     </>
 
